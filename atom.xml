@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://oraclepi.tech</id>
+    <title>Orrr</title>
+    <updated>2024-09-12T07:56:09.400Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://oraclepi.tech"/>
+    <link rel="self" href="https://oraclepi.tech/atom.xml"/>
+    <logo>https://oraclepi.tech/images/avatar.png</logo>
+    <icon>https://oraclepi.tech/favicon.ico</icon>
+    <rights>All rights reserved 2024, Orrr</rights>
+    <entry>
+        <title type="html"><![CDATA[Ethernaut challenges]]></title>
+        <id>https://oraclepi.tech/post/3TfrFzmb/</id>
+        <link href="https://oraclepi.tech/post/3TfrFzmb/">
+        </link>
+        <updated>2024-03-25T13:10:37.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[quick notes for blockchain]]></title>
+        <id>https://oraclepi.tech/post/SnPoU1Mup/</id>
+        <link href="https://oraclepi.tech/post/SnPoU1Mup/">
+        </link>
+        <updated>2024-03-09T08:32:53.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTB_Challenges]]></title>
+        <id>https://oraclepi.tech/post/htb_challenges/</id>
+        <link href="https://oraclepi.tech/post/htb_challenges/">
+        </link>
+        <updated>2023-12-19T05:43:43.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTB_University_CTF_2023 ]]></title>
+        <id>https://oraclepi.tech/post/shHGM9hmT/</id>
+        <link href="https://oraclepi.tech/post/shHGM9hmT/">
+        </link>
+        <updated>2023-12-10T22:15:15.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intigriti CTF 2023 PWN]]></title>
+        <id>https://oraclepi.tech/post/JbINLA9Ja/</id>
+        <link href="https://oraclepi.tech/post/JbINLA9Ja/">
+        </link>
+        <updated>2023-11-19T00:27:16.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[qiling_lab_aarch64]]></title>
+        <id>https://oraclepi.tech/post/LIbdQfEF3/</id>
+        <link href="https://oraclepi.tech/post/LIbdQfEF3/">
+        </link>
+        <updated>2023-10-30T04:06:42.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TCP1P]]></title>
+        <id>https://oraclepi.tech/post/UPbwsdUDa/</id>
+        <link href="https://oraclepi.tech/post/UPbwsdUDa/">
+        </link>
+        <updated>2023-10-16T04:11:29.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[近期一些题]]></title>
+        <id>https://oraclepi.tech/post/cMQySKj3Y/</id>
+        <link href="https://oraclepi.tech/post/cMQySKj3Y/">
+        </link>
+        <updated>2023-10-11T03:50:49.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[afl_training ]]></title>
+        <id>https://oraclepi.tech/post/VX0_6BnfV/</id>
+        <link href="https://oraclepi.tech/post/VX0_6BnfV/">
+        </link>
+        <updated>2023-10-08T05:11:32.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fuzzing Module]]></title>
+        <id>https://oraclepi.tech/post/5Wt1I5xiU/</id>
+        <link href="https://oraclepi.tech/post/5Wt1I5xiU/">
+        </link>
+        <updated>2023-09-29T08:44:01.000Z</updated>
+    </entry>
+</feed>
